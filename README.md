@@ -49,7 +49,7 @@ RealBridge provides:
 - Matching Engine  
 - Collaboration Module  
 - Dashboard & Analytics  
-- Admin Control Panel  
+- Admin Control panel
 
 
 
